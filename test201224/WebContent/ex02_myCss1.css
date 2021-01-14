@@ -1,0 +1,33 @@
+@charset "EUC-KR";
+
+#red{
+	background-color:red;
+	width : 100px;
+	height : 100px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+}#green{
+	background-color:green;
+	width : 100px;
+	height : 100px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	position:relative;
+	left:100px;
+}#blue{
+	background-color:blue;
+	width : 100px;
+	height : 100px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	position:relative;
+	left:200px;
+}#gray{
+	background-color:gray;
+	width : 100px;
+	height : 100px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	position:relative;
+	left:300px;
+}
